@@ -9,3 +9,7 @@ def foo(x):
 
 def foo2(x):
   return x
+
+
+def foo3(x):
+  return x
