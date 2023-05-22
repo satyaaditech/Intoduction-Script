@@ -13,3 +13,6 @@ def foo2(x):
 
 def foo3(x):
   return x
+
+def foo4(x):
+  return x
